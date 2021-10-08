@@ -1,7 +1,9 @@
 
 /*Gestione delle comunicazioni*/
+//Per installare la libreria seguire questo tutorial: https://www.youtube.com/watch?v=w09Y2fwSTL0
 #define CURL_STATICLIB
-#include <curl\curl.h> // change the parenthesis by using angled brackets
+#include <curl\curl.h>
+ 
 #include <stdio.h>
 
 /*Gestione delle collezioni*/
